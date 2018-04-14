@@ -1,0 +1,2 @@
+# medicine
+chemichals/drugs/cosmotics
